@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewj2k
 - 👀 I’m interested in digital fabrication, robotics, and engineering
-- 🌱 I’m currently learning java programming for FIRST Tech Challenge
+- 🌱 I’m currently learning computer science and operations research at Cornell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
